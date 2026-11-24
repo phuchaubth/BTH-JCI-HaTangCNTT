@@ -22,7 +22,7 @@ Giai đoạn 3 của hệ thống [Quản lý Trang thiết bị CNTT (BTH-Thiet
 
 | Tài liệu | Đường dẫn |
 |---|---|
-| **Đặc tả yêu cầu GĐ3 – Hạ tầng CNTT theo JCI 8** (dự thảo v0.5 – đối chiếu đến mức ME toàn bộ chương liên quan (HCT, MOI, FMS, GLD, QPS, SQE)) | [docs/JCI8-HaTangCNTT.md](docs/JCI8-HaTangCNTT.md) |
+| **Đặc tả yêu cầu GĐ3 – Hạ tầng CNTT theo JCI 8** (dự thảo v0.6 – đối chiếu đến mức ME toàn bộ chương liên quan (HCT, MOI, FMS, GLD, QPS, SQE)) | [docs/JCI8-HaTangCNTT.md](docs/JCI8-HaTangCNTT.md) |
 | SRS hệ thống gốc (GĐ1–GĐ2) | [BTH-ThietBiCNTT/docs/SRS.md](https://github.com/phuchaubth/BTH-ThietBiCNTT/blob/main/docs/SRS.md) |
 
 ## Trạng thái
